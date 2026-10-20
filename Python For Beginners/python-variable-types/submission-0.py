@@ -1,0 +1,10 @@
+integer_type = 25
+float_type = 98.1
+bool_type = True
+string_type = "Struig"
+list_type = [5,4,3,2,1]
+print(type(integer_type))
+print(type(float_type))
+print(type(bool_type))
+print(type(string_type))
+print(type(list_type))
